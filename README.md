@@ -1,9 +1,9 @@
 # Web-Technology
-<b style="font-size: 20px;">Author</b> <br>
+<b style="font-size: 30px;">Author</b> <br>
 Rohan Nhemaphuki | IT Student <hr>
-<b style="font-size: 20px;">Language Used</b> <br> 
+<b style="font-size: 30px;">Language Used</b> <br> 
 HTML | CSS3 | Javascript <hr> 
-<b style="font-size: 20px;">Key Features</b> 
+<b style="font-size: 30px;">Key Features</b> 
 <ol> 
   <li>Animated Background</li> 
   <li>Responsive Design</li> 
